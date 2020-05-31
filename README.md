@@ -28,8 +28,7 @@ root project:`build.gradle`
 app:`build.gradle`
 ```groovy
   dependencies {
-     // e.g. compile 'com.github.woxingxiao:SlidingUpPanelLayout:1.1.0'
-     compile 'com.github.woxingxiao:SlidingUpPanelLayout:${LATEST_VERSION}'
+     compile 'com.github.JiangZhiTong:SlidingUpPanelLayout:1.1.3'
   }
 ```
 
